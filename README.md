@@ -1,1 +1,1 @@
-"Projeto para auto desenvolvimento pesssoal, usando HTML5, CSS e JavaScript"
+""Projeto para autodesenvolvimento pessoal, usando HTML5, CSS e JavaScript""
